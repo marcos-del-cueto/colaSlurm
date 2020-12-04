@@ -8,6 +8,16 @@
  -- Script is home-made and is certainly not optimized. Feel free to
     share any improvements
 
- -- Can be executed simply with: $> ./colaSlurm
+# Usage
+ 
+ ```
+ bash colaSlurm
+ ```
 
  -- For convenience, can be moved to a directory that belongs to the user's path
+ 
+ 
+# License:
+&copy; Marcos del Cueto Cordones
+
+Licensed under the [MIT License](LICENSE.md).
