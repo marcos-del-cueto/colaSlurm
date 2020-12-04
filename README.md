@@ -8,7 +8,7 @@ Script is home-made and is certainly not optimized. Feel free to share any impro
 # Usage
  
  ```
- bash colaSlurm
+ bash colaSlurm.sh
  ```
  
 # License:
